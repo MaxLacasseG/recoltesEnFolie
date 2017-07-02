@@ -1,0 +1,1304 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fond",
+				"fondJeu"
+			],
+			[
+				"blocAc",
+				"blocActif2\t(Jeu.js)"
+			],
+			[
+				"blocAct",
+				"blocActif1\t(Jeu.js)"
+			],
+			[
+				"les",
+				"lesBloc"
+			],
+			[
+				"no",
+				"noGrille"
+			],
+			[
+				"decal",
+				"decalageHaut\t(Jeu.js)"
+			],
+			[
+				"NB",
+				"NB_COULEURS\t(JeuRecoltes.js)"
+			],
+			[
+				"verf",
+				"verifierMotif"
+			],
+			[
+				"Rec",
+				"RECOLTES"
+			],
+			[
+				"peu",
+				"peutJouer"
+			],
+			[
+				"peut",
+				"peutJouer"
+			],
+			[
+				"cou",
+				"couleurAChercher"
+			],
+			[
+				"NB_",
+				"NB_COLONNES"
+			],
+			[
+				"temp",
+				"tempsTxt"
+			],
+			[
+				"temps",
+				"tempsTxt"
+			],
+			[
+				"sco",
+				"scoreTxt"
+			],
+			[
+				"affich",
+				"afficherNbArticlesDistincts"
+			],
+			[
+				"supprimer",
+				"supprimerArticle\t(panier_controleur.class.php)"
+			],
+			[
+				"sous",
+				"soustotal"
+			],
+			[
+				"prix",
+				"prixUnitaire"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"ajouter",
+				"ajouterArticle"
+			],
+			[
+				"panier",
+				"panier_id"
+			],
+			[
+				"a",
+				"assainir"
+			],
+			[
+				"id",
+				"idArticle"
+			],
+			[
+				"S",
+				"SELECT"
+			],
+			[
+				"Nb",
+				"NB_LIGNES"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"ann",
+				"annee"
+			],
+			[
+				"crs",
+				"crs_code"
+			],
+			[
+				"liste",
+				"listeCours"
+			],
+			[
+				"en",
+				"enseignant"
+			],
+			[
+				"ut",
+				"utl_id"
+			],
+			[
+				"rendre",
+				"rendreInactif\t(main.js)"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"modi",
+				"modifierEnseignant"
+			],
+			[
+				"inse",
+				"insert_id"
+			],
+			[
+				"soum",
+				"soumettreRequete"
+			],
+			[
+				"uti",
+				"utl_id"
+			],
+			[
+				"utl",
+				"utl_id"
+			],
+			[
+				"boit",
+				"boite-contenu\t(index.html)"
+			],
+			[
+				"conso",
+				"console.log"
+			],
+			[
+				"boite",
+				"boiteModale"
+			],
+			[
+				"res",
+				"resultat"
+			],
+			[
+				"da",
+				"date_ajout"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"Print",
+				"print_r"
+			],
+			[
+				"remov",
+				"removeClass"
+			],
+			[
+				"lis",
+				"liste-articles\t(index.html)"
+			],
+			[
+				"art",
+				"article-enseignant\t(index.html)"
+			],
+			[
+				"affi",
+				"afficherListeEnseignants"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"lire",
+				"lireEnseignants\t(coordonnateur_modele.class.php)"
+			],
+			[
+				"actif",
+				"actif"
+			],
+			[
+				"cons",
+				"console.log"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"prin",
+				"principal\t(admin.php)"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"cont",
+				"conteneur\t(admin.php)"
+			],
+			[
+				"hi",
+				"height"
+			],
+			[
+				"st",
+				"stretch"
+			],
+			[
+				"align",
+				"align-self"
+			],
+			[
+				"form",
+				"form_joindre\t(joindre.php)"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"noRef",
+				"noRef\t(emplois-fiche.php)"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"emp",
+				"employeur_nom\t(accueil.php)"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"em",
+				"employeur"
+			],
+			[
+				"aff",
+				"affichage_fin\t(emplois_modele.class.php)"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"ass",
+				"assainir\t(sql.lib.php)"
+			],
+			[
+				"affiche",
+				"afficherTousLesEmplois\t(emplois_controleur.class.php)"
+			],
+			[
+				"endfor",
+				"endforeach"
+			],
+			[
+				"req",
+				"require_once\t(entete.php)"
+			],
+			[
+				"this",
+				"this.lesLumieres"
+			],
+			[
+				"ta",
+				"tableauSons\t(jeu.js)"
+			],
+			[
+				"joue",
+				"jouerProchainSon"
+			],
+			[
+				"se",
+				"sequenceSons"
+			],
+			[
+				"sq",
+				"sequenceSons"
+			],
+			[
+				"de",
+				"decalageGauche"
+			],
+			[
+				"Ta",
+				"TAILLE_LUMIERE"
+			],
+			[
+				"inser",
+				"insert_id\t(sql.lib.php)"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"consta",
+				"constant"
+			],
+			[
+				"con",
+				"constant"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"li",
+				"list-unstyled\t bootstrap.min.css"
+			],
+			[
+				"list",
+				"list-unstyled\t bootstrap.min.css"
+			],
+			[
+				"col-md-o",
+				"col-md-offset-3\t bootstrap.min.css"
+			],
+			[
+				"ro",
+				"row\t bootstrap.min.css"
+			],
+			[
+				"CON",
+				"container-fluid\t bootstrap.min.css"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"ju",
+				"justify"
+			],
+			[
+				"te",
+				"text-justify"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"fle",
+				"flex"
+			],
+			[
+				"p",
+				"police\t styles.less"
+			],
+			[
+				"fl",
+				"flex"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"border-b",
+				"border-box"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"chan",
+				"changeCouleur"
+			],
+			[
+				"mouse",
+				"mouseIsDown"
+			],
+			[
+				"pos",
+				"posYBlinky"
+			],
+			[
+				"tes",
+				"test2"
+			],
+			[
+				"test",
+				"test2"
+			],
+			[
+				"t",
+				"test"
+			],
+			[
+				"clas",
+				"class\t(Ecole.class.php)"
+			],
+			[
+				"Ec",
+				"Ecole\t(Ecole.class.php)"
+			],
+			[
+				"comme",
+				"commande"
+			],
+			[
+				"else",
+				"elseif\telseif …"
+			],
+			[
+				"mysqli_e",
+				"mysqli_error"
+			],
+			[
+				"mysqli_a",
+				"mysqli_affected_rows"
+			],
+			[
+				"mys",
+				"mysqli_insert_id"
+			],
+			[
+				"int",
+				"intval"
+			],
+			[
+				"my",
+				"mysqli_query"
+			],
+			[
+				"MSQ",
+				"mysqli"
+			],
+			[
+				"cod",
+				"code_postal"
+			],
+			[
+				"print",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "\"use strict\";\n\nvar RECOLTES = RECOLTES || {};\n////////////////////////////////\n//          EcranJeu         //\n////////////////////////////////\n\n////////////////////////////////\n// Variables globales\n////////////////////////////////\nRECOLTES.Jeu = function() {\n    //Gestion du jeu\n    this.laGrille = []; // {Array}\n    this.lesBlocs = null; //{Group}\n    this.blocActif1 = null;\n    this.blocActif2 = null;\n    this.fondJeu = null;\n\n    //Gestion du temps\n    this.minuteur = null; // {int}\n\n    //Gestion du son\n    this.sonAmbiance = null; // {Audio}\n\n    //Flags de jeu\n    this.peutJouer = null; // {bool}\n    this.peutDeplacer = null; // {bool}\n};\n\nRECOLTES.Jeu.prototype = {\n    /**\n     * Fct d'initialisation\n     * Initialise les variables\n     */\n    init: function() {        \n        for (var i = 0; i < RECOLTES.NB_LIGNES; i++) {\n            this.laGrille[i] = [];\n            for (var j = 0; j < RECOLTES.NB_COLONNES; j++) {\n                this.laGrille[i][j] = null;\n            }\n        }\n    },\n\n    /**\n     * Fonction servant à la création du jeu\n     */\n    create: function() {\n        //Placer le fond\n        this.fondJeu = this.add.image(0, 0, \"fondJeu\");\n        //Placer les blocs de textes\n        this.lesBlocs = new Phaser.Group();\n        //Créer le gestionnaire de son\n\n        this.creerGrille();\n    }, // Fin create\n\n    /**\n     * Fct servant à créer la grille de jeu\n     * Array ext: lignes\n     * Array int: colonnes\n     * \n     */\n    creerGrille: function() {\n        var noGrille = 0;\n\n        //On ajoute les lignes du array\n        for (var li = 0; li < RECOLTES.NB_LIGNES; li++) {\n            this.laGrille[li] = [];\n            for (var col = 0; col < RECOLTES.NB_COLONNES; col++) {\n                this.laGrille[li][col] = this.creerBloc(col, li);\n                this.laGrille[li][col].position = noGrille;\n                noGrille++;\n            }\n        }\n        //this.afficherGrille();\n    }, // Fin creerGrille\n\n    creerBloc: function(col, li) {\n        var posX = 0, posY = 0, laCouleur = null, bloc = null;\n\n        //Définir couleur {int range:0 -> RECOLTES.NB_COULEURS}\n        laCouleur = this.rnd.integerInRange(0, RECOLTES.NB_COULEURS-1);\n        posX = RECOLTES.MARGE_GC + (col * RECOLTES.TAILLE_BLOC);\n        posY = li * RECOLTES.TAILLE_BLOC;\n\n        console.log(posX, posY);\n        //Définir bloc\n        bloc = this.add.sprite(posX, posY, \"blocsImg\");\n        bloc.frame = laCouleur;\n\n        //Anime en descendant\n        // this.add.tween(bloc).to({\n        //     y: li * RECOLTES.TAILLE_BLOC\n        // }, 750, Phaser.Easing.Bounce.Out, true);\n\n        //Gestion de l'interactivité\n        //bloc.inputEnabled = true;\n        //unBloc.events.onInputDown.add(this.selection, this);\n\n        return bloc;\n    }, // Fin creerBloc\n\n    afficherGrille: function() {\n        console.log(\"***DEBUG***\");\n        console.log(this.laGrille);\n\n        for (var li = 0; li < RECOLTES.NB_LIGNES; li++) {\n            for (var col = 0; col < RECOLTES.NB_COLONNES; col++) {\n                console.log(\"position:\", this.laGrille[li][col].position);\n                console.log(\"frame:\", this.laGrille[li][col].frame);\n                console.log(\"coord:\", this.laGrille[li][col]);\n                console.log(\"---------\");\n            }\n        }\n    },\n    update: function(){\n\n    }\n}; // Fin Jeu.prototype",
+			"file": "src/Jeu.js",
+			"file_size": 3336,
+			"file_write_time": 131407589630000000,
+			"settings":
+			{
+				"buffer_size": 3371,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/Demarrage.js",
+			"settings":
+			{
+				"buffer_size": 1323,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "bea",
+		"selected_items":
+		[
+			[
+				"bea",
+				"Javascript Beautify"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"mini",
+				"Minify Javascript"
+			],
+			[
+				"jav",
+				"Javascript Beautify"
+			],
+			[
+				"php",
+				"PHP CodeBeautifier"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"beua",
+				"Javascript Beautify"
+			],
+			[
+				"be",
+				"Javascript Beautify"
+			],
+			[
+				"reid",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"beauti",
+				"HTMLBeautify"
+			],
+			[
+				"beau",
+				"Javascript Beautify"
+			],
+			[
+				"doc",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"li",
+				"Package Control: List Packages"
+			],
+			[
+				"dock",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"s",
+				"Select Skin"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"docbloc",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"bloc",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Enable Debug Mode"
+			],
+			[
+				"mode",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"su",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"sul",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"tog",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"compani",
+				"PHPCompanion:Insert Constructor Property"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"prefi",
+				"Autoprefix CSS"
+			],
+			[
+				"red",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"au",
+				"Autoprefix CSS"
+			],
+			[
+				"l",
+				"Package Control: List Packages"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"page",
+				"Snippet: pageHtmlVide"
+			],
+			[
+				"pag",
+				"Snippet: pageHtmlVide"
+			],
+			[
+				"package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"vide",
+				"Snippet: pageHtmlVide"
+			],
+			[
+				"lo",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"htmlv",
+				"Snippet: pageHtmlVide"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: pageHtmlVide"
+			]
+		],
+		"width": 475.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/htdocs/recoltesEnFolie v1.2.0",
+		"/Applications/MAMP/htdocs/recoltesEnFolie v1.2.0/src",
+		"/Volumes/Max L G/__easyPhp/EasyPHP-DevServer-14.1VC11/data/localweb/my portable files/_prog anim 3/sem 10/_cours_10/_02_effondrementBlocs_volet_1_recursion"
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/recoltesEnFolie v1.2.0/src/ChargementMedias.js",
+		"/Volumes/Max L G/__easyPhp/EasyPHP-DevServer-14.1VC11/data/localweb/my portable files/_prog anim 3/TP/LacasseGermain_TP2_Recoltes/src/Jeu.js",
+		"/Volumes/Max L G/__easyPhp/EasyPHP-DevServer-14.1VC11/data/localweb/my portable files/_prog anim 3/sem 10/_cours_10/_02_effondrementBlocs_volet_1_recursion/src/Jeu.js",
+		"/Applications/MAMP/htdocs/recoltesEnFolie v1.2.0/src/Demarrage.js",
+		"/Applications/MAMP/htdocs/recoltesEnFolie v1.2.0/src/JeuRecoltes.js",
+		"/Volumes/Max L G/__easyPhp/EasyPHP-DevServer-14.1VC11/data/localweb/my portable files/_prog anim 3/sem 10/_cours_10/_02_effondrementBlocs_volet_1_recursion/src/Demarrage.js",
+		"/Applications/MAMP/htdocs/recoltesEnFolie v1.2.0/index.html",
+		"/Applications/MAMP/htdocs/recoltesEnFolie v1.2.0/medias/img/instructionsBtn.png",
+		"/Volumes/Max L G/__easyPhp/EasyPHP-DevServer-14.1VC11/data/localweb/my portable files/_prog anim 3/TP/Application/index.html",
+		"/Volumes/Max L G/__easyPhp/EasyPHP-DevServer-14.1VC11/data/localweb/my portable files/_prog anim 3/TP/Application/src/AnimRond.js",
+		"/Volumes/Max L G/__easyPhp/EasyPHP-DevServer-14.1VC11/data/localweb/my portable files/_prog anim 3/_etudiants/src/JeuCouleur.js",
+		"/Volumes/Max L G/__easyPhp/EasyPHP-DevServer-14.1VC11/data/localweb/my portable files/_prog anim 3/_etudiants/src/AnimRond.js",
+		"/Volumes/Max L G/__easyPhp/EasyPHP-DevServer-14.1VC11/data/localweb/my portable files/_prog anim 3/TP/Application/src/Jeu.js",
+		"/Volumes/Max L G/__easyPhp/EasyPHP-DevServer-14.1VC11/data/localweb/my portable files/_prog anim 3/TP/Application/src/JeuRecoltes.js",
+		"/Volumes/Max L G/__easyPhp/EasyPHP-DevServer-14.1VC11/data/localweb/my portable files/_prog anim 3/TP/Application/src/PointBitmap.js",
+		"/Volumes/Max L G/__easyPhp/EasyPHP-DevServer-14.1VC11/data/localweb/my portable files/_prog anim 3/_etudiants/index.html",
+		"/Volumes/Max L G/__easyPhp/EasyPHP-DevServer-14.1VC11/data/localweb/my portable files/_prog anim 3/_etudiants/src/Jeu.js",
+		"/Users/maximelacassegermain/Desktop/NotesProgAnim/_Cours_07_PhysicsGroup&Tilemap 2/02_Phaser_TileMapEtTileSet/src/jeu.js",
+		"/Users/maximelacassegermain/Downloads/_Cours_07_PhysicsGroup&Tilemap 2/02_Phaser_TileMapEtTileSet/src/jeu.js",
+		"/Users/maximelacassegermain/Downloads/_Cours_07_PhysicsGroup&Tilemap 2/01_Phaser_PhysicGroup/src/jeu.js",
+		"/Users/maximelacassegermain/Downloads/_cours_11_touch_bitmapText_Jeu_EffondrementDesBlocs_Volet_2/_02_tileMap_key&moveToPointer/src/Jeu.js",
+		"/Users/maximelacassegermain/Downloads/_cours_11_touch_bitmapText_Jeu_EffondrementDesBlocs_Volet_2/_02_tileMap_key&moveToPointer/src/JeuHeros.js",
+		"/Users/maximelacassegermain/Downloads/_cours_11_touch_bitmapText_Jeu_EffondrementDesBlocs_Volet_2/_01_demosTouch_Pointer/src/Demo4.js",
+		"/Users/maximelacassegermain/Downloads/_cours_11_touch_bitmapText_Jeu_EffondrementDesBlocs_Volet_2/_01_demosTouch_Pointer/src/Demo3.js",
+		"/Users/maximelacassegermain/Downloads/_cours_11_touch_bitmapText_Jeu_EffondrementDesBlocs_Volet_2/_01_demosTouch_Pointer/src/Demo2.js",
+		"/Users/maximelacassegermain/Downloads/_cours_11_touch_bitmapText_Jeu_EffondrementDesBlocs_Volet_2/_01_demosTouch_Pointer/src/Demo1.js",
+		"/Users/maximelacassegermain/Downloads/_Cours_04_Phaser_State_Timer_JeuLesPaires_Suite/01_states_base/src/jeu.js",
+		"/Users/maximelacassegermain/Downloads/_Cours_04_Phaser_State_Timer_JeuLesPaires_Suite/03_jeuMemoire_LesPaires_suite/src/jeu.js",
+		"/Users/maximelacassegermain/Downloads/_Cours_04_Phaser_State_Timer_JeuLesPaires_Suite/02_states_gestionTemps/src/jeu.js",
+		"/Users/maximelacassegermain/Downloads/_cours_10_EspaceDeNom_Jeu_EffondrementDesBlocs_Volet_1/_01_espaceDeNom_pourLeJeu/src/IntroJeu.js",
+		"/Users/maximelacassegermain/Downloads/_cours_10_EspaceDeNom_Jeu_EffondrementDesBlocs_Volet_1/_01_espaceDeNom_pourLeJeu/src/jeuLesCouleurs.js",
+		"/Users/maximelacassegermain/Downloads/_cours_10_EspaceDeNom_Jeu_EffondrementDesBlocs_Volet_1/_00_baseJeuAvantEspaceDeNom/src/jeu.js",
+		"/Applications/MAMP/htdocs/tp-volet3/panierachats/ressources/js/panier.js",
+		"/Applications/MAMP/htdocs/tp-volet3/panierachats/config/config.php",
+		"/Applications/MAMP/htdocs/tp-volet3/panierachats/controleurs/panier_controleur.class.php",
+		"/Applications/MAMP/htdocs/tp-volet3/panierachats/modeles/panier_modele.class.php",
+		"/Applications/MAMP/htdocs/tp-volet3/panierachats/index.html",
+		"/Applications/MAMP/htdocs/PW3_tp2/eva-tp2/modeles/coordonnateur_modele.class.php",
+		"/Applications/MAMP/htdocs/PW3_tp2/eva-tp2/controleurs/coordonnateur_controleur.class.php",
+		"/Applications/MAMP/htdocs/tp-volet3/panierachats/lib/sql.lib.php",
+		"/Volumes/Max L G/_assemblageJeu/Tp/DossierUnity/Labyrinthe/Assets/Scripts/Camera.cs",
+		"/Applications/MAMP/htdocs/PW3_tp2/eva-tp2/ressources/js/main.js",
+		"/Volumes/Max L G/_prog anim 3/Tp/Application/src/JeuRecoltes.js",
+		"/Volumes/Max L G/_prog anim 3/Tp/Application/index.html",
+		"/Volumes/Max L G/_prog anim 3/Tp/Application/src/Jeu.js",
+		"/Volumes/Max L G/_prog anim 3/Tp/Application/src/Instructions.js",
+		"/Volumes/Max L G/_prog anim 3/Tp/Application/src/jeu.js",
+		"/Volumes/Max L G/_prog anim 3/Tp/Application/src/Demarrage.js",
+		"/Volumes/Max L G/_prog anim 3/Tp/Application/src/FinJeu.js",
+		"/Volumes/Max L G/__easyPhp/EasyPHP-DevServer-14.1VC11/data/localweb/my portable files/_prog anim 3/sem 10/_cours_10/_01_espaceDeNom_pourLeJeu/src/FinJeu.js",
+		"/Volumes/Max L G/_prog anim 3/Tp/Application/src/ChargementMedias.js",
+		"/Volumes/Max L G/__easyPhp/EasyPHP-DevServer-14.1VC11/data/localweb/my portable files/_prog anim 3/sem 10/_cours_10/_01_espaceDeNom_pourLeJeu/src/ChargementMedias.js",
+		"/Volumes/Max L G/__easyPhp/EasyPHP-DevServer-14.1VC11/data/localweb/my portable files/_prog anim 3/sem 10/_cours_10/_01_espaceDeNom_pourLeJeu/src/IntroJeu.js",
+		"/Volumes/Max L G/_prog anim 3/Tp/Application/src/IntroJeu.js",
+		"/Volumes/Max L G/__easyPhp/EasyPHP-DevServer-14.1VC11/data/localweb/my portable files/_prog anim 3/sem 10/_cours_10/_01_espaceDeNom_pourLeJeu/src/JeuLesCouleurs.js",
+		"/Applications/MAMP/htdocs/PW3_tp2/eva-tp2/lib/sql.lib.php",
+		"/Applications/MAMP/htdocs/PW3_tp2/eva-tp2/index.html",
+		"/Applications/MAMP/htdocs/PW3_tp2/eva-tp2/controleurs/utilisateur_controleur.class.php",
+		"/Applications/MAMP/htdocs/PW3_tp2/eva-tp2/ressources/css/main.css",
+		"/Applications/MAMP/htdocs/PW3_tp2/eva-tp2/config/config.php",
+		"/Applications/MAMP/htdocs/PW3_tp2/eva-tp2/bd/eva_schema_plus_donnees.sql",
+		"/Users/maximelacassegermain/Desktop/testAjax.html",
+		"/Applications/MAMP/htdocs/steeveday/css/styles.css",
+		"/Volumes/Max L G/__easyPhp/EasyPHP-DevServer-14.1VC11/data/localweb/my portable files/PW3/eva/index.html",
+		"/Applications/MAMP/htdocs/steeveday/css/styles.less",
+		"/Applications/MAMP/htdocs/steeveday/vues/joindre.php",
+		"/Volumes/Max L G/__easyPhp/EasyPHP-DevServer-14.1VC11/data/localweb/my portable files/PW3/eva/ressources/js/main.js",
+		"/Applications/MAMP/htdocs/steeveday/js/admin.js",
+		"/Applications/MAMP/htdocs/steeveday/controleurs/admin_controleur.class.php",
+		"/Applications/MAMP/htdocs/steeveday/modeles/admin_modele.class.php",
+		"/Applications/MAMP/htdocs/steeveday/controleurs/accueil_controleur.class.php",
+		"/Applications/MAMP/htdocs/steeveday/vues/accueil.php",
+		"/Applications/MAMP/htdocs/steeveday/vues/emplois.php",
+		"/Applications/MAMP/htdocs/steeveday/vues/emplois-fiche.php",
+		"/Applications/MAMP/htdocs/steeveday/config/config.php",
+		"/Applications/MAMP/htdocs/steeveday/js/main.js",
+		"/Applications/MAMP/htdocs/steeveday/modeles/temoignage_modele.class.php",
+		"/Applications/MAMP/htdocs/steeveday/modeles/emplois_modele.class.php",
+		"/Applications/MAMP/htdocs/steeveday/controleurs/joindre_controleur.class.php",
+		"/Applications/MAMP/htdocs/steeveday/modeles/joindre_modele.class.php",
+		"/Applications/MAMP/htdocs/steeveday/vues/joindre.html",
+		"/Applications/MAMP/htdocs/steeveday/gabarits/gabarit.class.php",
+		"/Applications/MAMP/htdocs/steeveday/controleurs/emplois_controleur.class.php",
+		"/Applications/MAMP/htdocs/steeveday/modeles/accueil_modele.class.php",
+		"/Applications/MAMP/htdocs/steeveday/controleurs/controleur.class.php",
+		"/Applications/MAMP/htdocs/steeveday/cours12/leila/vues/vins.php",
+		"/Applications/MAMP/htdocs/steeveday/vues/emploi.html",
+		"/Applications/MAMP/htdocs/steeveday/cours12/leila/vues/entete.php",
+		"/Applications/MAMP/htdocs/steeveday/cours12/leila/gabarits/gabarit.class.php",
+		"/Applications/MAMP/htdocs/steeveday/index.html",
+		"/Applications/MAMP/htdocs/steeveday/css/reset.css",
+		"/Volumes/Max L G/TIM/03 DesignInterface/Exercices/exerciceCSS_Vrai/index.html",
+		"/Volumes/Max L G/TIM/03 DesignInterface/Exercices/exerciceCSS_Vrai/css/styles.css",
+		"/Volumes/Max L G/TIM/03 DesignInterface/Exercices/exerciceCSS_Vrai/css/ordi.css",
+		"/Volumes/Max L G/TIM/03 DesignInterface/Exercices/exerciceCSS_Vrai/css/tablette.css",
+		"/Volumes/Max L G/TIM/03 DesignInterface/Exercices/exerciceCSS_Vrai/css/mobile.css",
+		"/Applications/MAMP/htdocs/steeveday/entete.php",
+		"/Applications/MAMP/htdocs/steeveday/css/reset.less",
+		"/Volumes/Max L G/TIM/03 Prog_Anim 2/Exercices/Cours 5/_cours01_navigationResponsive/01_navCSS/css/style.css",
+		"/Volumes/Max L G/TIM/03 DesignInterface/Tp/tp5/styles/ecran.css",
+		"/Volumes/Max L G/TIM/03 DesignInterface/Tp/tp5/styles/mobile.css",
+		"/Volumes/Max L G/TIM/03 DesignInterface/Tp/tp5/styles/tablette.css",
+		"/Volumes/Max L G/TIM/03 Prog_Anim 2/Exercices/Cours 2/_03_flexbox-12-colonnes/css/style.css",
+		"/Users/maximelacassegermain/Library/Application Support/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/Applications/MAMP/htdocs/steeveday/index.php",
+		"/Applications/MAMP/htdocs/steeveday/lib/sql.lib.php",
+		"/Users/maximelacassegermain/Library/Application Support/Sublime Text 3/Packages/User/snippets/php_echo.sublime-snippet",
+		"/Volumes/Max L G/__SUBLIME/Data/Packages/User/php-echo.sublime-snippet",
+		"/Volumes/Max L G/__easyPhp/EasyPHP-DevServer-14.1VC11/data/localweb/my portable files/PW3/leila/entete.php",
+		"/Users/maximelacassegermain/Documents/02 Graphisme/00 Web/01 Clients/Steeve Day/Production/steeveday alias",
+		"/Volumes/Max L G/__easyPhp/EasyPHP-DevServer-14.1VC11/data/localweb/my portable files/_prog anim 3/sem 04/02_states_gestionTemps/src/jeu.js",
+		"/Volumes/Max L G/__easyPhp/EasyPHP-DevServer-14.1VC11/data/localweb/my portable files/_prog anim 3/sem 04/exerciceAremettre/index.html",
+		"/Volumes/Max L G/__easyPhp/EasyPHP-DevServer-14.1VC11/data/localweb/my portable files/_prog anim 3/sem 04/exerciceAremettre/src/jeu.js",
+		"/Volumes/Max L G/__easyPhp/EasyPHP-DevServer-14.1VC11/data/localweb/my portable files/_prog anim 3/sem 04/03_jeuMemoire_LesPaires_suite/src/jeu.js",
+		"/Applications/MAMP/htdocs/steeveday/joindre.html",
+		"/Applications/MAMP/htdocs/steeveday/emploi.html",
+		"/Volumes/Max L G/__easyPhp/EasyPHP-DevServer-14.1VC11/data/localweb/my portable files/PW3/leila/vins.php",
+		"/Applications/MAMP/htdocs/Test/test.php",
+		"/Applications/MAMP/htdocs/RepertoireEmploye/bd/INSERT.sql",
+		"/Users/maximelacassegermain/Documents/03 TIM/Dev/Repertoire des employés/MCD_reqSQL/test.json",
+		"/Users/maximelacassegermain/Desktop/BackUp Cegep/16_12_25/_BaseDeDonnees/Exercices/Cours 1/menu.json",
+		"/Users/maximelacassegermain/Library/Application Support/Sublime Text 3/Settings/SideBarEnhancements.json",
+		"/Volumes/Max L G/__easyPhp/EasyPHP-DevServer-14.1VC11/data/localweb/my portable files/PW3/leila/config/config.php",
+		"/Volumes/Max L G/__easyPhp/EasyPHP-DevServer-14.1VC11/data/localweb/my portable files/PW3/leila/lib/sql.lib.php",
+		"/Applications/MAMP/htdocs/portfolio/lib/sql.lib.php",
+		"/Applications/MAMP/htdocs/portfolio/config.php",
+		"/Users/maximelacassegermain/Library/Application Support/Sublime Text 3/Packages/User/snippets/fonction.sublime-snippet",
+		"/Users/maximelacassegermain/Library/Application Support/Sublime Text 3/Packages/User/fonction.sublime-snippet"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ligne",
+			"min",
+			"aObligatoire",
+			"i",
+			"idLigneAjout",
+			"produits",
+			"produitClone",
+			"leJeu",
+			";",
+			"=",
+			"var",
+			"Var",
+			"var",
+			" $this.parent()",
+			"\".liste-articles\"",
+			"coordon",
+			"2",
+			"$$res",
+			"emplois",
+			"\"",
+			"span",
+			"h5",
+			"'",
+			"\"",
+			"this",
+			"center",
+			",\"",
+			", '",
+			",'",
+			"_REQUEST",
+			"$",
+			".\",",
+			"\".",
+			"'",
+			"_POST",
+			"_post",
+			"_POST",
+			"_post",
+			"_POST",
+			"h1",
+			"p",
+			"QT.tabPointage",
+			"QT.tabPointage.innerHTML=QT.score ",
+			"QT.imageQuestion.parentNode",
+			"console",
+			"libell",
+			"gererTemps",
+			"chrono",
+			"Chrono",
+			"%;\n",
+			"rouge",
+			"@bleuMoyen",
+			"Questions",
+			"questions",
+			"div",
+			"article",
+			"div",
+			"overflow",
+			"\t// font-weight: bold;\n",
+			"1em",
+			"Suspensions",
+			"2",
+			"5",
+			"2",
+			"values",
+			"into",
+			"\"",
+			"$i",
+			"$aoLivres[$i]",
+			"i",
+			"$oLivre",
+			"<h2>",
+			"sdfsdf",
+			"span",
+			"p",
+			"var_dump(\"<pre>\");\n\t\t\t// var_dump($aJson);\n\t\t\t// var_dump(\"</pre>\");",
+			".rectangle",
+			"both",
+			".animationPre(",
+			"animation:",
+			"animation",
+			"transform:",
+			"transform",
+			".childNodes[0]",
+			"balle",
+			"i",
+			"rotateZ",
+			"Z",
+			"1440deg",
+			"52",
+			"50",
+			"48",
+			":hover",
+			".actif",
+			"boutonBurger",
+			"menu",
+			"slide",
+			"media",
+			"focus",
+			"arrow-button-2",
+			"cross-button",
+			"focus",
+			"gold",
+			"nav-button",
+			"5",
+			"forwards",
+			"10px",
+			"8px",
+			"4px",
+			"5px",
+			"10px",
+			"1s",
+			"Fleche",
+			"menuburgerFleche",
+			"menuburgerX",
+			"menuburgerFleche2",
+			"actif",
+			"requerant",
+			"repondeur",
+			"%;\n",
+			"side",
+			"link",
+			"foot",
+			"hero",
+			"menu",
+			":hover",
+			"a:hover",
+			"a:h"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			".animationPre(",
+			".transformPre(",
+			"utilisateur",
+			"oFrmImg",
+			"checkbox",
+			"innerHTML",
+			"HTML",
+			"\"<table>\" + creerTableRow(creerTableData(aListe)) + \"</table>\"",
+			"h2",
+			"sSuite.substr(0, (sSuite.length - 2))",
+			"</h2>",
+			"<h2>"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/Jeu.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3371,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1264,
+								1264
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/brogrammer (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 845.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/Demarrage.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1323,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1016,
+								1106
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/brogrammer (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 210.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.614415881375,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 27.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 134.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 25.0
+	},
+	"pinned_build_system": "",
+	"project": "recoltes1.2.0.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Volumes/Max L G/TIM/_Prog Web I/Tp1/js/persoGras.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

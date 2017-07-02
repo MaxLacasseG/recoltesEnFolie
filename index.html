@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width = device-width, initial-scale = 1.0, maximum-scale = 1.0, minimum-scale = 1.0, user-scalable = no">
+		<title>Travail pratique | Récoltes en folies</title>
+		
+		<!--Favicon-->
+		<link rel="icon" type="image/png" href="medias/img/favicon.png" />
+		
+		<!--Pour l'enregistrement de la page Web comme une application d'écran d'accueil sur appareil iOS-->
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-barstyle" content="black-translucent">
+		<link rel="apple-touch-icon" href="medias/img/apple.png">
+
+		<!-- Version de dev -->
+		<!--Intégration des scripts-->
+		<link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+		<script src="lib/phaser.js"></script>
+		<script src="src/PointBitmap.js"></script>
+		<script src="src/JeuRecoltes.js"></script>
+		
+		<script src="src/ChargementMedias.js"></script>
+		<script src="src/Demarrage.js"></script>
+		<script src="src/Instructions.js"></script>
+		<script src="src/IntroJeu.js"></script>
+		<script src="src/Jeu.js"></script>
+		<script src="src/FinJeu.js"></script>
+		
+		<!--Classe statique Ecran pour gérer le "fullScreen" et l'orientation-->
+		<script src="src/Ecran.js"></script>
+
+		<!-- Version de deploiement -->
+		<!-- <script src="lib/phaser.min.js"></script>
+		<script src="src/PointBitmap.min.js"></script>
+		<script src="src/JeuRecoltes.min.js"></script>
+		
+		<script src="src/ChargementMedias.min.js"></script>
+		<script src="src/Demarrage.min.js"></script>
+		<script src="src/Instructions.min.js"></script>
+		<script src="src/IntroJeu.min.js"></script>
+		<script src="src/Jeu.min.js"></script>
+		<script src="src/FinJeu.min.js"></script>
+		
+		<Classe statique Ecran pour gérer le "fullScreen" et l'orientation
+		<script src="src/Ecran.min.js"></script> -->
+
+		<style type="text/css">
+					body {
+						background: #413229;
+						margin:0;
+						padding:0;
+					}
+					#orientation {
+						position: fixed;
+						top: 0;
+						left: 0;
+						width: 100%;
+						height: 100%;
+						background-image: url(medias/img/mettrePaysage.png);
+						background-repeat: no-repeat;
+						background-position: center center;
+						background-color: #06C3D4;
+						display: none;
+					}
+		</style>
+	</head>
+	<body>
+		<div id="orientation"></div>
+	</body>
+</html>
